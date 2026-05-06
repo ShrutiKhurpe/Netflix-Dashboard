@@ -84,4 +84,7 @@ iv. Business Impact and Insights
 - Drama and Documentary genres are the most common
 
 6. Screenshot / Demo
+
+    https://github.com/ShrutiKhurpe/Netflix-Dashboard/blob/main/Snapshot%20of%20Netflix.png
+   
    
